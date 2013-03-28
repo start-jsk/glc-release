@@ -58,8 +58,10 @@
   <buildtool_depend>catkin</buildtool_depend>
 
   <build_depend>libasound2-dev</build_depend>
-  <run_depend>libasound2-dev</run_depend>
+  <build_depend>libpng12-dev</build_depend>
 
+  <run_depend>libasound2-dev</run_depend>
+  <run_depend>libpng12-dev</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
