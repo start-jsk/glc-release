@@ -60,10 +60,12 @@
   <build_depend>libasound2-dev</build_depend>
   <build_depend>libpng12-dev</build_depend>
   <build_depend>opengl</build_depend>
+  <build_depend>libxxf86vm</build_depend>
 
   <run_depend>libasound2-dev</run_depend>
   <run_depend>libpng12-dev</run_depend>
   <run_depend>opengl</run_depend>
+  <run_depend>libxxf86vm</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
