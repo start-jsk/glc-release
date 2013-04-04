@@ -1,3 +1,3 @@
 [git-buildpackage]
-upstream-branch=release/glc/0.5.8
+upstream-branch=@(release_tag)
 upstream-tree=branch
